@@ -1,6 +1,6 @@
-package hello;
+package com.bptn.course.hello;
 
-public class HelloWorld {
+public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
