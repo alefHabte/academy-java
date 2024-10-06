@@ -42,7 +42,7 @@ public class StringOperations {
 			System.out.println("Reverse String");
 			System.out.println("Enter a string:");
 			String original = scanner.nextLine();
-			String backwards = "";
+
 
 			if (!original.equals(" ")) {
 				StringBuilder input1 = new StringBuilder();
