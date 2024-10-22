@@ -51,3 +51,7 @@ public class TwoSum {
 	}
 }
 
+//We used a HashMap to effeciently lookup and solve the two sum problem,
+//by reducing the time complexity from O(n^2) to O(n).
+//we made sure that the complement was checked before adding the current element to the map.
+//what we can take away from this is that we can use hashmap to optimize our solutions for similar problems in the future

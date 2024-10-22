@@ -57,4 +57,7 @@ public class BinarySearch {
 		}
 	}
 }
-
+//In this program we sorted the unsorted array by performing a binary search to find a target value
+//we used the Array.sort() method to sort the array making sure it was in the correct order before we implemented the binary search
+//we then used a while loop to implement the binary search algorithm to find the target by adjusting the low and high pointers
+//the key take away from this program is we can use binary search and sorting together to quickly locate elements in an array, which emphasize the importance of pre-sorting for a binary search

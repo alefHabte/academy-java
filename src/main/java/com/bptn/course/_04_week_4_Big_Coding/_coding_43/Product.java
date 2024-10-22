@@ -38,3 +38,7 @@ public class Product {
 		System.out.println("Number of products with price less than 30000: " + count);
 	}
 }
+//In this program our task was to count the number of products in a list that had a price below 30,000
+//we used java streams by first filtering the list based on the product price then counting the filtered elements.
+//In this process we used streams,filter and count methods making the program more efficient
+//The thing we can takeaway from this is how streams can simplify operations like filtering and counting data within a collection

@@ -31,3 +31,7 @@ public class ListToMap {
 	}
 }
 
+//Our goal was to transform a list of Student objects into a map where the student ID will be the key
+//and the student object as the value. we achieved this by using java strams and the collectors.toMap method
+//In this task we looked at ways to manipulate collections using streams and method references, which will make our code more efficient and readable.
+//what we can take away is that we can use streams fro transforming and collecting data concisely 
