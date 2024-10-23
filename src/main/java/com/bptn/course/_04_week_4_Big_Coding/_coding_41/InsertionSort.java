@@ -41,4 +41,7 @@ public class InsertionSort {
 		}
 	}
 }
-
+//In this program we implemented the insertion sort algorithm to sort the array the array
+//the algorithm works by iterating through the array progressively then build a sorted portion by inserting each element into it's correct position
+//the algorithm will compare the current element with previous elements and then shift the larger one to the right
+//The key take-away was understanding how the insertion sort works step by step, seeing this reassured its simplicity for using it for small datasets but it's still less efficient for larger datasets compared to other sorting algorithms
